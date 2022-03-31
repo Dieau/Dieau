@@ -3,10 +3,10 @@
 ## Quick Trivia about me :
 
 - 📚 Gratuated from **Lyon III University** in Applied Foreign Languages, both in Japanese and English.
-- 🏮 Lived in Japan for a year, in **Ôsaka**, which made me grow immensely.
+- 🏮 Lived abroad in Japan for a year, in **Ôsaka**, which was an amazing experience.
 - 💭 Decided to **explore new horizons**, and discovered code during 42's selection process.
 - 🔭 Student at  **42 Lyon** since November of 2021 and hopefully for quite some time!
-- 🌱 Currently mostly learning **C** and **CPP**.
+- 🌱 Currently learning **C** and **CPP**.
 - 💬 **Feel free** to communicate with me on any regard!
 
 - 🎂 **The Cake is a Lie**
