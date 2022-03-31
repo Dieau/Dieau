@@ -2,7 +2,7 @@
 
 <p align="center">
 	<img align="center"
-	     src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" height="40%" width="40%"/>
+	     src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" height="25%" width="25%"/>
 </p>
 
 ## Quick Trivia about me :
