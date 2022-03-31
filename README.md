@@ -6,5 +6,6 @@
 </p>
 
 <p align="center">
-	![](https://komarev.com/ghpvc/?username=Dieau)
+	<img align="center"
+	src="https://komarev.com/ghpvc/?username=Dieau" />
 </p>
