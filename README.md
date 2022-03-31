@@ -1,7 +1,7 @@
 # Hey there 👋
 
 ## About me
-I used to be a pastry chef for ten years, and the covid gave me lot of time to think about my future, that's how I've discovered the wonderful world of programming. I started by the famous pool of 42, and so, I keep learning everyday all these languages ❤️
+
 - 🔭 I’m currently a student at  **42**, in Lyon, France
 - 🌱 I’m currently learning **C** and **CPP** languages
 - 💬 Ask me about anything, I'll always be happy to help if I can
@@ -9,6 +9,7 @@ I used to be a pastry chef for ten years, and the covid gave me lot of time to t
 
 
 
+<img src="https://activity-graph.herokuapp.com/graph?username=keshavsingh4522&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 <p align="center">
 	<img align="center"
