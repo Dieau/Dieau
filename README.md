@@ -1,6 +1,6 @@
-# Greetings 👋
+# Hey there, I'm Adel 👋
 
-My name is Adel, student at @42Lyon since 11/02/2021.
+Student at @42Lyon since 11/02/2021.
 
 
 
