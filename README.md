@@ -24,7 +24,7 @@
 </div>
 
  
-<p align="center">
+<p>
 	<img align="center"
 	src="https://komarev.com/ghpvc/?username=Dieau" />
 </p>
