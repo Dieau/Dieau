@@ -8,11 +8,9 @@
 - 🔭 Student at  **42 Lyon** since November of 2021 and hopefully for quite some time!
 - 🌱 Currently mostly learning **C** and **CPP**.
 - 💬 **Feel free** to communicate with me on any regard!
+
 - 🎂 **The Cake is a Lie**
-
-
-
-
+ 
 
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=Dieau&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="center" />
@@ -20,6 +18,7 @@
 
 </div>
 
+ 
 <p align="center">
 	<img align="center"
 	src="https://komarev.com/ghpvc/?username=Dieau" />
