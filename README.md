@@ -2,7 +2,6 @@
 
 ## Quick Trivia about me :
 
-- 🐌 After a scientific high school diploma, decided to tryout Medic School, which was not for me.
 - 📚 Gratuated from **Lyon III University** in Applied Foreign Languages, both in Japanese and English.
 - 🏮 Lived in Japan for a year, in **Ôsaka**, which made me grow immensely.
 - 💭 Decided to **explore new horizons**, and discovered code during 42's selection process.
@@ -14,7 +13,7 @@
 
 
 <div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=Dieau&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api?username=Dieau&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="center" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dieau&theme=tokyonight&hide_langs_below=4' />
 
 </div>
