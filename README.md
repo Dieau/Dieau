@@ -5,7 +5,7 @@
 	     src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" height="25%" width="25%"/>
 </p>
 
-<h align="center">
+
 ## Quick Trivia about me :
 
 - 📚 Gratuated from **Lyon III University** in Applied Foreign Languages, both in Japanese and English.
@@ -16,7 +16,7 @@
 - 💬 **Feel free** to communicate with me on any regard!
 
 - 🎂 **The Cake is a Lie**
- </h>
+
 
 <p align="center">
 	<img align="center"
