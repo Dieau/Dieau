@@ -12,11 +12,10 @@
 - 🎂 **The Cake is a Lie**
  
 
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=Dieau&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="center" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dieau&theme=tokyonight&hide_langs_below=4' align="center" />
-
-</div>
+<p align="center">
+	<img align="center"
+	src="https://github-readme-stats.vercel.app/api?username=Dieau&show_icons=true" alt="" heigt="40%" width="40%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieau&layout=compact" alt="" height="50%" width="33%" />
+</p>
 
  
 <p align="center">
