@@ -1,11 +1,15 @@
-# Hey there 👋
+# Hey there 🌀
 
-## About me
+## Quick Trivia about me :
 
-- 🔭 I’m currently a student at  **42**, in Lyon, France
-- 🌱 I’m currently learning **C** and **CPP** languages
-- 💬 Ask me about anything, I'll always be happy to help if I can
-- 🤔 I’m looking for almost everything for now. What can I do for you? Cakes 🎂
+- 🐌 After a scientific high school diploma, decided to tryout Medic School, which was not for me.
+- 📚 Gratuated from **Lyon III University** in Applied Foreign Languages, both in Japanese and English.
+- 🏮 Lived in Japan for a year, in **Ôsaka**, which made me grow immensely.
+- 💭 Decided to **explore new horizons**, and discovered code during 42's selection process.
+- 🔭 Student at  **42 Lyon** since November of 2021 and hopefully for quite some time!
+- 🌱 Currently mostly learning **C** and **CPP**.
+- 💬 **Feel free** to communicate with me on any regard!
+- 🎂 **The Cake is a Lie**
 
 
 
