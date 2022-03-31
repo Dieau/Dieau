@@ -14,7 +14,7 @@
 
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=Dieau&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="center" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dieau&theme=tokyonight&hide_langs_below=4' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dieau&theme=tokyonight&hide_langs_below=4' align="center" />
 
 </div>
 
