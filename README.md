@@ -9,7 +9,7 @@
 ## Quick Trivia about me :
 
 - 📚 Gratuated from **Lyon III University** in Applied Foreign Languages, both in Japanese and English.
-- 🏮 Lived abroad in Japan for a year, in **Ôsaka**, which was an amazing experience.
+- 🏮 Lived abroad in Japan for a year, in **Ôsaka**.
 - 💭 Decided to **explore new horizons**, and discovered code during 42's selection process.
 - 🔭 Student at  **42 Lyon** since November of 2021 and hopefully for quite some time!
 - 🌱 Currently learning **C** and **CPP**.
