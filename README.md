@@ -13,7 +13,7 @@
 - 💭 Decided to **explore new horizons**, and discovered code during 42's selection process.
 - 🔭 Student at  **42 Lyon** since November of 2021 and hopefully for quite some time!
 - 🌱 Currently learning **C** and **CPP**.
-- 💬 **Feel free** to communicate with me on any regard!
+- 💬 **Feel free** to contact me!
 
 - 🎂 **The Cake is a Lie**
 
@@ -24,9 +24,3 @@
 <img src='https://github-readme-stats.vercel.app/api?username=Dieau&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dieau&theme=tokyonight&hide_langs_below=4' align="center" />
 </div>
-
- 
-<p>
-	<img align="center"
-	src="https://komarev.com/ghpvc/?username=Dieau" />
-</p>
