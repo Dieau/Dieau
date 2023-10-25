@@ -11,7 +11,6 @@
 - 📚 Gratuated from **Lyon III University** in Applied Foreign Languages, both in Japanese and English.
 - 💭 Decided to **explore new horizons**, and discovered code during 42's selection process.
 - 🔭 Student at  **42 Lyon** since November of 2021.
-- 🌱 Currently learning **C**, **CPP**, **Vue**, **Nest**, **GraphQL**, **Prisma**, **TrypeScript**, **Ruby on Rails** and more to come!
 - 💬 **Feel free** to contact me!
 
 - 🎂 **The Cake is a Lie**
